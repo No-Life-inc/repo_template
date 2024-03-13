@@ -1,4 +1,4 @@
-# dls_frontend_write_rest_api
+# REPO TEMPLATE
 
 ## Contributors
 
